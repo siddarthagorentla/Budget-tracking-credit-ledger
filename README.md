@@ -12,6 +12,5 @@ Frontend: HTML, CSS, JavaScript
 
 
 
-run this bit in your compiler terminal: python -m http.server 8000
-you get a local host in the output console then you can run project using local host
+run this bit in your compiler terminal: python -m http.server 8000      you get a local host in the output console then you can run project using local host
 
