@@ -9,3 +9,9 @@ Responsive Design: The application is responsive and works well on various devic
 Data Persistence (Optional): Optionally, you can extend this project to include data persistence using local storage or a backend service to store the user's data across sessions.
 Tech Stack
 Frontend: HTML, CSS, JavaScript
+
+
+
+run this bit in your compiler terminal: python -m http.server 8000
+you get a local host in the output console then you can run project using local host
+
